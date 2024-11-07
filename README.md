@@ -1,4 +1,4 @@
-# explore-mobile-app-release
+# Mentalab Explore Mobile APP
 
 For any information or assistance, please contact support@mentalb.com and we will assist you further.
 ## Download and install
