@@ -1,11 +1,13 @@
 # explore-mobile-app-release
 
-## Download
-[Android](https://github.com/Mentalab-hub/explore-mobile-app-release/releases/latest)
-
+For any information or assistance, please contact support@mentalb.com and we will assist you further.
+## Download and install
+# Android:
+- For Android you can doqwnload the .apk file from here: [Android](https://github.com/Mentalab-hub/explore-mobile-app-release/releases/latest)
+- For iOS, we provide an app file on request.
 
 ## Tests
-Following is are the devices we used to testing:
+Following are the devices we used to testing:
 
 | Device          | OS version |
 | ------------------| ----------- |
