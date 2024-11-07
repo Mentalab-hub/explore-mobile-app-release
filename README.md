@@ -1,7 +1,10 @@
 # Mentalab Explore Mobile App
 
-For any information or assistance, please contact support@mentalb.com and we will assist you further.
+# Disclaimer:
+The Mentalab Explore Pro app and hardware are intended strictly for research, educational, and non-medical applications.
+
 ## Download and install
+For any information or assistance, please contact support@mentalb.com and we will assist you further.
 # Android:
 - For Android you can doqwnload the .apk file from here: [Android](https://github.com/Mentalab-hub/explore-mobile-app-release/releases/latest)
 - For iOS, we provide an app file on request.
