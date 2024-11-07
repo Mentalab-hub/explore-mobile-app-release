@@ -5,8 +5,9 @@
 
 
 ## Tests
+Following is are the devices we used to testing:
 
-- | Device          | OS version |
+| Device          | OS version |
 | ------------------| ----------- |
 | Lenovo Tab M9     | Android 13 |
 | Samsung S23 Ultra | Android 14 |
