@@ -10,7 +10,7 @@ Users can monitor, manage, and export data from EEG, ECG, EMG, and other bioelec
 ## Download and install
 For any information or assistance, please contact support@mentalb.com and we will assist you further.
 
-# Android:
+## Android:
 - For Android, you can download the .apk file from here: [Android](https://github.com/Mentalab-hub/explore-mobile-app-release/releases/latest)
 - For iOS, we provide an app file on request.
 
