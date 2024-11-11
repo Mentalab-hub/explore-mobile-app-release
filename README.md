@@ -15,6 +15,8 @@ For any information or assistance, please contact support@mentalb.com and we wil
 - For iOS, we provide an app file on request.
 
 ## Usage:
+Please note that currently the app only supports 8 channel Mentalab Explore Pro 8 channel device at 250Hz.
+
 - Scan nearby Explore Devices.
 - Visualize impedance data.
 <p align="left">
