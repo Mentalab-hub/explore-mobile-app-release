@@ -15,20 +15,35 @@ For any information or assistance, please contact support@mentalab.com and we wi
 - For iOS, we provide an app file on request.
 
 ## Usage:
-Please note that currently the app only supports 8 channel Mentalab Explore Pro 8 channel device at 250Hz.
+Please note that currently the app only supports Mentalab Explore Pro 8-channel devices at 250Hz.
 
-- Scan nearby Explore Devices.
-- Visualize impedance data.
+**Homepage:**
+- Scan and connect to nearby Explore Devices.
+
+**Cog menu:**
+- Change visulization Filter settings
+- Disconnect
+- Check app version
+
+**Impedance tab:**
+- Inspect impedance values.
+- Assign channel positions.
+
 <p align="left">
     <img src="images/Impedance.jpg" alt="Impedance visualization" width="300">
 </p>
 
-- Visualize ExG data and apply filters in real time.
+**EXG tab:**
+- Visualize ExG data.
+- Dot menu:
+    - Adapt visulization settings (y-axis scaling).
+    - Record raw ExG data in CSV format.
 <p align="left">
     <img src="images/ExG.jpg" alt="Exg visualization" width="300">
 </p>
 
-- Record raw ExG data in CSV format.
+**Bottom bar:**
+- Inspect device name, temperature, battery charge
 
 ## Tests
 Following are the devices we used to testing:
@@ -43,8 +58,7 @@ Following are the devices we used to testing:
 | iPhone SE (gen 3) | iOS 17     |
 
 ## Known bugs:
-- Denying bluetooth and nearby devices permissions can result on connection failure!
-
+- Denying bluetooth and nearby devices permissions can result on connection failure.
 
 ## Disclaimer:
 The Mentalab Explore Pro app and hardware are intended strictly for research and educational applications.
