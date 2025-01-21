@@ -42,7 +42,8 @@ Following are the devices we used to testing:
 | iPhone 13         | iOS 18     | 
 
 ## Known bugs:
-- Denying bluetooth and nearby devices permissions can result on connection failure!
+- When assigning channels in the impedance view and then disconnecting/reconnecting, the existing head montage remains instead of being cleared.
+- The time window of the ExG visualization is not affected by changes in the sampling rate.
 
 
 ## Disclaimer:
