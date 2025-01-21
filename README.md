@@ -38,9 +38,8 @@ Following are the devices we used to testing:
 | Lenovo Tab M9     | Android 13 |
 | Samsung S23 Ultra | Android 14 |
 | Zenfone 10        | Android 14 |
-| iPhone 15         | iOS 18     |
-| iPhone 13         | iOS 17     |
-| iPhone SE (gen 3) | iOS 17     |
+| Pixel 7 Pro       | Android 15 |
+| iPhone 13         | iOS 18     | 
 
 ## Known bugs:
 - Denying bluetooth and nearby devices permissions can result on connection failure!
