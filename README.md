@@ -12,27 +12,27 @@ We also offer a flexible and cross platform mobile API for developers and resera
 ## Download and install
 For any information or assistance, please contact support@mentalab.com and we will assist you further.
 
-## Android:
-- For Android, you can download the .apk file from here: [Android](https://github.com/Mentalab-hub/explore-mobile-app-release/releases/latest)
-- For iOS, we provide an app file on request.
+### Android:
+- You can download the .apk file from here: [Android](https://github.com/Mentalab-hub/explore-mobile-app-release/releases/latest)
 
-## Usage:
+### iOS:
+- Available on the [App Store](https://apps.apple.com/app/mentalab-explore/id6636486425)
 
-- Scan nearby Explore Devices.
-- Visualize impedance data.
-- Record raw ExG data.
-- Change device settings.
+## Features:
+
+- Scan and connect to nearby Explore devices.
+- Visualize real-time impedance data.
+- Visualize ExG data and apply filters in real time.
+- Record raw ExG data in csv format.
+- Adjust device settings.
   
 <p align="left">
     <img src="images/Impedance.jpg" alt="Impedance visualization" width="300">
 </p>
 
-- Visualize ExG data and apply filters in real time.
 <p align="left">
     <img src="images/ExG.jpg" alt="Exg visualization" width="300">
 </p>
-
-- Record raw ExG data in CSV format.
 
 ## Tests
 Following are the devices we used to testing:
@@ -44,6 +44,13 @@ Following are the devices we used to testing:
 | Zenfone 10        | Android 14 |
 | Pixel 7 Pro       | Android 15 |
 | iPhone 13         | iOS 18     | 
+
+### Recording Tests
+
+Conducted on **Lenovo Tab M9 (Android 13)** for 2 hours:
+
+- ✅ 16 channels at 500 Hz sampling rate
+- ✅ 16 channels at 250 Hz sampling rate
 
 ## Known bugs:
 - The following sampling rates are supported only in Android: 8 channels 1000Hz, 16 channels at 500 Hz, 32 channels at 250 Hz.
