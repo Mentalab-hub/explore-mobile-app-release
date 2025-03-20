@@ -45,6 +45,13 @@ Following are the devices we used to testing:
 | Pixel 7 Pro       | Android 15 |
 | iPhone 13         | iOS 18     | 
 
+### Recording Tests
+
+Conducted on **Lenovo Tab M9 (Android 13)** for 2 hours:
+
+- ✅ 16 channels at 500 Hz sampling rate
+- ✅ 16 channels at 250 Hz sampling rate
+
 ## Known bugs:
 - The following sampling rates are supported only in Android: 8 channels 1000Hz, 16 channels at 500 Hz, 32 channels at 250 Hz.
 - When assigning channels in the impedance view and then disconnecting/reconnecting, the existing head montage remains instead of being cleared.
